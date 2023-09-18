@@ -1,0 +1,333 @@
+*{
+    margin: 0px;
+    font-family: 'open Sans',sans-serif;
+
+ }
+ /* Header */
+.header{
+    background-image: url('../new-year-portfolio/images/banner/banner3.png');
+    width: 1600px;
+    height: 808px;
+    flex-shrink: 0;
+}
+#shanto{
+    height: 250px;
+    width: 250px;
+    border-radius: 200px;
+    margin-left: 1050px;
+    padding-top: 20px;
+}
+.class6{
+    margin-left: 1130px;
+    color: #FFF;
+    font-size: 20px;
+}
+.font{
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-style: normal;
+    margin-left: 850px;
+    margin-right: 200px;
+    padding-top: 30px;
+} 
+.para{
+    color: #FFF;
+    text-align: justify;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    margin-left: 850px;
+    margin-right: 200px;
+    padding-bottom: 24px;
+}
+.btn{
+    color: #005FAC;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    line-height: normal;
+    margin-left: 1270px;
+}
+/* Navigation */
+nav{
+    padding-top: 15px;
+    margin-left: 20px;
+    display: flex;
+    justify-content:space-between;
+}
+nav a {
+    text-decoration: none;
+    color:whitesmoke;
+    margin-right: 30px;
+}
+/* Section 1 and div 1 */
+.div1{
+    display: flex;
+    background: #FFF;
+}
+.div1-1{
+    margin-top: 150px;
+    margin-left: 200px;
+    width: 451px;
+    height: 898px;
+    flex-shrink: 0;
+}
+.div1-2{
+    margin-top: 220px;
+    margin-left: 250px;
+}
+.font1{
+    color: var(--dark-01, #151414);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    padding-bottom: 15px;
+}
+.para1{
+    color: var(--dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    padding-bottom: 15px;
+    text-align: justify;
+}
+.unorder-list{
+    color: var(--dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+}
+
+/* Section 2 and div 2 */
+.div2{
+    display: flex;
+    background: #FFF;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-bottom: 40px;
+}
+.font2{
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+}
+.div2-1{
+    margin: 56px;
+    background: #FFF;
+}
+.font3{
+    margin-top: 20px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+}
+.para2{
+    margin-top: 5px;
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}
+
+.div2-2{
+    margin: 56px;
+    background: #FFF;
+}
+.font4{
+    margin-top: 20px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+}
+.para3{
+    margin-top: 5px;
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}
+
+.div2-3{
+    margin: 56px;
+    background: #FFF;
+}
+.font5{
+    margin-top: 20px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+}
+.para4{
+    margin-top: 5px;
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}
+.div2-4{
+    margin: 56px;
+    background: #FFF;
+}
+.font6{
+    margin-top: 20px;
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+}
+.para5{
+    margin-top: 5px;
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}
+
+#shanto1{
+    width: 92.958px;
+    height: 92.958px;
+    flex-shrink: 0;
+    margin-left:80px;
+}
+#shanto2{
+    width: 92.958px;
+    height: 92.958px;
+    flex-shrink: 0;
+    margin-left:30px;
+}
+#shanto3{
+    width: 92.958px;
+    height: 92.958px;
+    flex-shrink: 0;
+    margin-left:38px;
+}
+#shanto4{
+    width: 92.958px;
+    height: 92.958px;
+    flex-shrink: 0;
+    margin-left:30px;
+}
+/* Section 3 and div 3 */
+.div3-1{
+    background-image: url('../new-year-portfolio/images/gradient1.png'),url('../new-year-portfolio/images/watch.png');
+    width: 1140px;
+    height: 300px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    margin-left: 250px;
+    margin-bottom: 150px;
+ 
+}
+.description{
+    padding: 100px;
+}
+.font7{
+    color:#dde6ee;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    padding-bottom: 10px;
+}
+.btn1{
+    color: #005FAC;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    margin-bottom: 100px;
+}
+/* Footer Part */
+.div4{
+    padding-top: 250px;
+    display: flex;
+    width: 1600px;
+    height: 577px;
+    flex-shrink: 0;
+    background: var(--dark-01, #151414);
+    
+}
+.div4-2{
+    margin-left: 250px;
+    margin-right: 300px;
+    display:block;
+}
+/* div4-1 */
+#sanvi1{
+    margin-left: 214px;
+    padding: 15px;
+}
+#sanvi2{
+    padding: 15px;
+}
+#sanvi3{
+    padding: 15px;
+}
+.font8{
+    color: #F8F8F8;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    margin-left: 230px;
+}
+.para6{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    margin-left: 230px;
+    padding-bottom: 24px;
+}
+.para7{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    margin-left: 230px;
+}
+.para8{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    margin-left: 230px;
+}
+/* div4-2 */
+.font9{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 25px;
+    font-style: normal;
+}
+#sanvi{
+    margin-top: 20px;
+    width: 325px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+}
+.btn2{
+    margin-top: 15px;
+    width: 150px;
+    height: 50px;
+    color: #FFF;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #005FAC;
+}
